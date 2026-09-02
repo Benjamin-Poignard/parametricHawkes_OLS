@@ -1,4 +1,4 @@
-# parametricHawkes_OLS
+# Estimation of parametric Hawkes processes by ordinary least squares
 
 Matlab implementation of parametric Hawkes process by ordinary least squares model based on the paper:
 
