@@ -10,7 +10,7 @@ Link: TBA
 
 The code in this replication includes:
 
-- The different DGP processes considered in the simulated experiments: the replicator should execute programs *runcode_sim_dist* (illustration of the asymptotic distribution), *runcode_l2error.m* ($\ell_2$-error), *runcode_test.m* (illustration of the Wald test statistic).
+- The different DGP processes considered in the simulated experiments: the replicator should execute programs *runcode_sim_dist.m* (illustration of the asymptotic distribution), *runcode_l2error.m* ($\ell_2$-error), *runcode_test.m* (illustration of the Wald test statistic).
 - The real data experiment (transactions): the replicator should execute program *runcode_fitR2.m* (R-square analysis), *runcode_prediction.m* (out-of-sample prediction of transactions), *runcode_test.m* (Wald test for trader heterogeneity).
 
 # Data availability
